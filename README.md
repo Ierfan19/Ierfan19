@@ -1,7 +1,8 @@
 - 👋 <h1 style="text-align:center;color:lightblue;">Hi, I’m M Irfan Fahruddin</h1>
 - 
 
-<div style="display: flex;">
+
+<div style="display: flex;margin: 0 auto;">
 	<img src="https://media.badgr.com/uploads/badges/0ad20aaa-7915-4975-ae5b-2b5c7162b985.png" style="margin:5px 10px" width="40">
 	<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--dy12VEVS--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/21/php-elephant.png" style="margin:5px 10px" width="40">	
 	<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--oarf4XxB--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/16/js-badge.png" style="margin:5px 10px" width="40">	
