@@ -1,4 +1,4 @@
-- 👋 <h1 style="text-align:center;color:lightblue;>Hi, I’m M Irfan Fahruddin</h1>
+- 👋 <h1 style="text-align:center;color:lightblue;">Hi, I’m M Irfan Fahruddin</h1>
 - 👀 I’m Programmer
 - 🌱 I’m from Blingoh Donorojo Jepara Jawa tengah Indonesia
 - 💞️ I’m Learning Somethink Was I like
