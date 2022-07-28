@@ -13,11 +13,12 @@
 	<img src="https://www.nicepng.com/png/full/383-3839776_node-js-icon-png.png" style="margin:5px 10px" width="40">	
 	<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--BQ6SA0AT--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/138/mongodb-badge-v1.png" style="margin:5px 10px" width="40">	
 </div>
-- 👀 I’m Programmer
-- 🌱 I’m from Blingoh Donorojo Jepara Jawa tengah Indonesia
-- 💞️ I’m Learning Somethink Was I like
-- 📫 ...
-- ierfan19.github.io
+- <br>
+- 👀 I’m Programmer<br>
+- 🌱 I’m from Blingoh Donorojo Jepara Jawa tengah Indonesia<br>
+- 💞️ I’m Learning Somethink Was I like<br>
+- 📫 ...<br>
+- <h3>ierfan19.github.io</h3>
 
 
 
