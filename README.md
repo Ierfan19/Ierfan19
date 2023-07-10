@@ -177,10 +177,10 @@
     </a>
 
 </p>
-  <p>
+  <p align="center">
       <img
         align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=ierfanfahruddin&"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=ierfanfahruddin&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&"
         alt="ierfanfahruddin"
       />
     </p>
