@@ -6,7 +6,11 @@
 
 
 ## ⚡ Technologies
-
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
@@ -25,13 +29,13 @@
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
-
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ---
 ![](https://komarev.com/ghpvc/?username=ierfanfahruddin&color=blue)
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<a href="https://github.com/PututDev">
+<a href="https://github.com/ierfanfahruddin">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ierfanfahruddin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ierfanfahruddin&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact"/>
 </a>
@@ -43,6 +47,7 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
+  
 <a href="https://www.instagram.com/ierfanfahruddin/"><img src="https://img.shields.io/badge/-@ierfanfahruddin-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
 
