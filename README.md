@@ -3,22 +3,47 @@
 
 
 
-<div align="center" style="display: flex;margin: 0 auto;">
-	<img src="https://media.badgr.com/uploads/badges/0ad20aaa-7915-4975-ae5b-2b5c7162b985.png" style="margin:5px 10px" width="40">
-	<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--dy12VEVS--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/21/php-elephant.png" style="margin:5px 10px" width="40">	
-	<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--oarf4XxB--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/16/js-badge.png" style="margin:5px 10px" width="40">	
-	<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/512px-HTML5_Badge.svg.png?20110131171049" style="margin:5px 10px" width="40">	
-	<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--6L8gxZot--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/18/57795357-be29b880-7713-11e9-9748-b08c782b58d7.png" style="margin:5px 10px" width="40">	
-	<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--ytlCYKyP--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/22/git-sticker.png" style="margin:5px 10px" width="40">		
-	<img src="https://www.nicepng.com/png/full/383-3839776_node-js-icon-png.png" style="margin:5px 10px" width="40">	
-	<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--BQ6SA0AT--/c_limit,f_auto,fl_progressive,q_80,w_375/https://dev-to-uploads.s3.amazonaws.com/uploads/badge/badge_image/138/mongodb-badge-v1.png" style="margin:5px 10px" width="40">	
-</div>
-- <br>
-- 👀 I’m Programmer<br>
-- 🌱 I’m from Blingoh Donorojo Jepara Jawa tengah Indonesia<br>
-- 💞️ I’m Learning Somethink Was I like<br>
-- 📫 ...<br>
-- <h3>ierfan19.github.io</h3>
+
+<!---![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; --->
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
+![Codeigniter](https://img.shields.io/badge/-Codeigniter-05122A?style=flat&logo=codeigniter)&nbsp;
+![WordPress](https://img.shields.io/badge/-WordPress-blue?style=flat&logo=wordpress)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![JSON](https://img.shields.io/badge/-JSON-02569B?style=flat&logo=json)&nbsp;
+![JQuery](https://img.shields.io/badge/-JQuery-blue?style=flat&logo=jquery)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Blogger](https://img.shields.io/badge/Blogger-FF5722?style=flat&logo=blogger&logoColor=white)&nbsp;
+![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)&nbsp;
+<!---![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white)&nbsp;--->
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=flat&logo=Canva&logoColor=white)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+---
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/PututDev">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pututdev&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pututdev&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
+---
+
+
+
+### 🤝🏻 &nbsp;Connect with Me
+
+<p align="center">
+<a href="https://www.instagram.com/ierfanfahruddin/"><img src="https://img.shields.io/badge/-@pututdev-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+</p>
 
 
 
