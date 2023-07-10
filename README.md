@@ -2,7 +2,7 @@
 
 
 
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!---![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp; --->
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
