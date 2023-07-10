@@ -31,7 +31,7 @@
 <p align="center">
 <a href="https://github.com/PututDev">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ierfanfahruddin&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ierfanfahruddin&layout=compact&langs_count=8&theme=algoli&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515a"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ierfanfahruddin&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact"/>
 </a>
   
 </p> 
