@@ -51,7 +51,7 @@
 
 <p align="center">
     <a href="https://www.instagram.com/ierfanfahruddin/">
-        <img src="https://img.shields.io/badge/-@ierfanfahruddin-E4405F style=flat&logo=Instagram&logoColor=white" />
+        <img src="https://img.shields.io/badge/-@ierfanfahruddin-fc0384 style=flat&logo=Instagram&logoColor=white" />
     </a>
 </p>
 
