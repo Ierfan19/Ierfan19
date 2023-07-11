@@ -1,8 +1,4 @@
-<style>
-      .badge p{
-            text-align:center;
-      }
-</style>
+
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <h1 align="center"><img src="https://github.com/ierfanfahruddin/ierfanfahruddin/blob/main/name.gif?raw=true"/></h1>
 
@@ -153,7 +149,7 @@
       </a>
     </p>
 
- <div class="badge">
+ <div style="text-align:center;">
        
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
