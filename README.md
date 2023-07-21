@@ -169,6 +169,7 @@
 ---
 ![](https://komarev.com/ghpvc/?username=ierfanfahruddin&color=blue)
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31z2hjll4pfftnjczkvn6p7763qe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=00a7bd&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
@@ -187,7 +188,6 @@
       />
     </p>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31z2hjll4pfftnjczkvn6p7763qe&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=00a7bd&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
