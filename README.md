@@ -1,9 +1,12 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<center>
-  <img src="https://github.com/ierfanfahruddin/ierfanfahruddin/blob/main/name.gif" alt="Ierfan">
-</center>
+:center:
+
+![Ierfan](https://github.com/ierfanfahruddin/ierfanfahruddin/blob/main/name.gif)
+
+:center:
+
 
 ## ⚡ Technologies
 <p align="center">
