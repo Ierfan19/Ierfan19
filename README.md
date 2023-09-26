@@ -1,10 +1,10 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<h1 align="center"><img src="https://github.com/ierfanfahruddin/ierfanfahruddin/blob/main/name.gif?raw=true"/></h1>
+<h1 align="center"><img src="https://github.com/ierfanfahruddin/ierfanfahruddin/blob/main/name.gif"/></h1>
 
 
 
-
+A
 ## ⚡ Technologies
 <p align="center">
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
