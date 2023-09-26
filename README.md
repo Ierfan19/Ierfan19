@@ -1,12 +1,10 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
- ![Ierfan](https://github.com/ierfanfahruddin/ierfanfahruddin/blob/main/name.gif)
+<center>
+  <img src="https://github.com/ierfanfahruddin/ierfanfahruddin/blob/main/name.gif" alt="Ierfan">
+</center>
 
-
-
-
-A
 ## ⚡ Technologies
 <p align="center">
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
