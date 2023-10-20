@@ -166,8 +166,9 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
----
 ![](https://komarev.com/ghpvc/?username=ierfanfahruddin&color=blue)
+
+---
 
 
 
