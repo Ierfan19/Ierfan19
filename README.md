@@ -186,6 +186,9 @@
         src="https://github-readme-streak-stats.herokuapp.com/?user=ierfanfahruddin&theme=dark"
         alt="ierfanfahruddin"
       />
+
+    
+![Jokes Card](https://readme-jokes.vercel.app/api)
     </p>
 
 <p align="center">
@@ -194,7 +197,6 @@
 </p>
 <!-- Markdown -->
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
