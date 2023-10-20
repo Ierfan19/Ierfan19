@@ -168,7 +168,7 @@
 
 <p align="center">
   
-![](https://komarev.com/ghpvc/?username=ierfanfahruddin&color=blue)
+![](https://komarev.com/ghpvc/?username=ierfanfahruddin&color=blue&style=flat-square)
 
 </p>
 
