@@ -187,8 +187,7 @@
         alt="ierfanfahruddin"
       />
 
-    
-    </p>
+ </p>
 
 <p align="center">
   
