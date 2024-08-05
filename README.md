@@ -48,14 +48,14 @@
     </a>
 
 </p>
-  <p align="center">
+<!--   <p align="center">
       <img
         align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=ierfanfahruddin&theme=dark"
         alt="ierfanfahruddin"
       />
 
- </p>
+ </p> -->
 
 <a href="#"><img src="colored.png"  width="100%" alt="play.kotlinlang.org"/></a>
 
@@ -79,6 +79,7 @@
       />
 
  </p>
+ 
 <p align="center">
   
 ![Jokes Card](https://readme-jokes.vercel.app/api)
