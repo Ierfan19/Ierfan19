@@ -75,7 +75,7 @@
         align="right"
         src="ghost.gif"
         alt="ierfanfahruddin"
-        width="100%"
+        width="30%"
       />
 
  </p>
